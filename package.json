@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "envoy-plugin": "bin/run"
+    "cli-test": "bin/run"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
